@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @muhammedkamil1995
-- 👀 I’m interested in being a full stack developer
+- 👀 I’m a good full stack developer
 - 🌱 I’m currently very good with Html, Css, Javascript and PHP
 - 💞️ I’m looking to collaborate on with good programer here
 - 📫 How to reach me ... contac: +2349073606049 and kamzycoded@gmail.com
