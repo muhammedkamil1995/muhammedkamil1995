@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muhammedkamil1995
 - 👀 I’m a good full stack developer
-- 🌱 I’m currently very good with Html, Css, Javascript, Coldfusion and PHP
+- 🌱 I possess expertise in HTML, CSS, JavaScript, ColdFusion, and PHP, showcasing proficiency in diverse web development technologies
 - 💞️ I’m looking to collaborate on with good programers here
 - 📫 How to reach me ... contac: +2349073606049 and kamzycoded@gmail.com
 
