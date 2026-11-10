@@ -21,6 +21,7 @@ I'm a full-stack developer who builds products end to end, from database and API
 I'm open to working with good programmers on meaningful products, especially in logistics, fintech and e-commerce.
 
 ## 📫 Reach me
+- 📧 [muhammed.kamil@sprintafrica.com.ng](muhammed.kamil@sprintafrica.com.ng)
 - 📧 [kamzycoded@gmail.com](mailto:kamzycoded@gmail.com)
 - 📞 +234 907 360 6049
 - 🌍 [sprintafrica.com.ng](https://sprintafrica.com.ng)
